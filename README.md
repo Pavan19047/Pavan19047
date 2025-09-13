@@ -23,7 +23,7 @@ I’m always curious to learn, collaborate, and build real-world solutions that 
 📫 Let’s connect and create something awesome together!
 
 * 🌍  I'm based in Bengaluru
-* 🖥️  See my portfolio at [My Portfolio](http://aboutpavan.netlify.app)
+* 🖥️  See my portfolio at [My Portfolio](http://pavanexe.web.app)
 * ✉️  You can contact me at [pavandimpu1234@gmail.com](mailto:pavandimpu1234@gmail.com)
 * 🚀  I'm currently working on [EcoPulse 🌱 (sustainability & eco-tracking platform)](http://github.com/Pavan19047/EcoPulse)
 * 🧠  I'm currently learning Full-Stack Development (MERN + Next.js)
