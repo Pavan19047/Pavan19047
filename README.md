@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pavan K
 ================================================================================================================================
 
-Full Stack Developer — AI Engineer
+Data Engineer @ Red Hat
 ---------------------------------
 
 Hi, I’m Pavan, a Computer Science Engineering student and software engineer focused on building scalable web platforms and applied AI systems.
@@ -22,13 +22,11 @@ I enjoy working on challenging problems, collaborating with motivated teams, and
 
 📫 Let’s connect and build impactful technology together!
 
+* 🔴  **Currently:** Data & AI Intern @ [Red Hat](https://www.redhat.com/)
 * 🌍  Based in Bengaluru, India
 * 🖥️  View my portfolio: [Portfolio](http://pavanexe.web.app)
 * ✉️  Contact: [pavandimpu1234@gmail.com](mailto:pavandimpu1234@gmail.com)
-* 🚀  Currently building: [Smart Helpdesk — AI-Powered IT Ticketing System](https://github.com/Pavan19047/CAPSTONE_8th_SEM)
-* 🧠  Learning: Advanced Full-Stack Development (MERN + Next.js) and MLOps
-* 👥  Open to collaboration on AI/ML systems, open-source platforms, and innovation challenges
-* 💬  Ask me about: system design, full-stack architecture, ML pipelines, IoT prototyping, and sustainable technology
+* 🔗  [LinkedIn](https://www.linkedin.com/in/pavan-k-804612250/)
 
 ---
 
@@ -83,7 +81,7 @@ I enjoy working on challenging problems, collaborating with motivated teams, and
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
   </picture>
 </a>  
-<a href="https://www.linkedin.com/in/pavan-k-804612250" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/pavan-k-804612250/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/_.pavan._.here._/" target="_blank" rel="noreferrer">
