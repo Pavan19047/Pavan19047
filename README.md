@@ -22,7 +22,7 @@ I enjoy working on challenging problems, collaborating with motivated teams, and
 
 📫 Let’s connect and build impactful technology together!
 
-* 🔴  **Currently:** Data & AI Intern @ [Red Hat](https://www.redhat.com/)
+* 🔴  **Currently:** Data Engineer @ [Red Hat](https://www.redhat.com/)
 * 🌍  Based in Bengaluru, India
 * 🖥️  View my portfolio: [Portfolio](http://pavanexe.web.app)
 * ✉️  Contact: [pavandimpu1234@gmail.com](mailto:pavandimpu1234@gmail.com)
